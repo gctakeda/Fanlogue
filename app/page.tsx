@@ -14,7 +14,7 @@ export default function LandingPage() {
   }, [])
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-indigo-50 via-white to-purple-50 dark:from-gray-900 dark:via-gray-800 dark:to-purple-900">
+    <div className="min-h-screen bg-white dark:bg-slate-900">
       {/* ヘッダー */}
       <header className="fixed top-0 w-full z-50 glass">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
